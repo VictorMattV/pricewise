@@ -14,7 +14,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
 
-Deployed version: https://pricewise-one-kappa.vercel.app
+Deployed version: https://pricewise-seven-rho.vercel.app
 
 # :construction: README customizado em construção ! :construction:
 
