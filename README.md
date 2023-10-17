@@ -1,5 +1,7 @@
 ## Getting Started
 
+clone this repository;
+
 run the development server:
 
 ```bash
