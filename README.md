@@ -18,6 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Deployed version: https://pricewise-seven-rho.vercel.app
 
-# :construction: custom README under construction ! :construction:
+# :construction: custom README in development ! :construction:
 
 
